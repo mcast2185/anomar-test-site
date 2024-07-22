@@ -1,0 +1,12 @@
+.paragraph-elem, h4 {
+  position: absolute;
+  text-align: center;
+  line-height: 0;
+  color: rgba(0,0,0,.9);
+  margin: 0;
+  transition-delay: .75s;
+}
+
+.paragraph-elem, h4:nth-child(4) {
+    color: var(--yellow);
+}

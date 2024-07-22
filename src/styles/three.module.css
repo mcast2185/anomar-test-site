@@ -1,0 +1,51 @@
+.webgl {
+    position: fixed;
+    top: 0;
+    left: 0;
+    outline: none;
+}
+/* 
+
+
+
+        <div className='h-[40%] space-x-[1rem] px-[4.5rem] sm:px-0 sm:ml-0 sm:h-[50%] sm:mb-5
+          sm:flex sm:flex-col md:px-[3rem] mt-[2.5rem] sm:mt-[1rem] sm:w-full  sm:scale-1 scale-[.75]'>
+          <div className='cursor-default flex-row justify-start items-center w-[100%] sm:pb-10 sm:leading-[1] 
+            leading-[.8] h-full sm:flex sm:flex-col sm:px-4 sm:justify-center md:tracking-[.19rem] sm:tracking-[.19rem]'>
+            <div ref={ref} style={{ position: 'relative' }}>
+              <motion.div
+                animate={staggerAnimation}
+                variants={TitleControl}
+                initial="hidden">
+                <h1 className='pl-2 text-gray-200 font-Imbue transition z-0 tracking-[1.45rem] scale-x-[1.3]
+                  sm:text-[3.5rem] md:text-[4.5rem] text-[8rem] font-bold duration-300 italic'>
+                  DESIGNING <br/>
+                </h1>
+              </motion.div>
+              <motion.div
+                animate={staggerAnimation}
+                variants={TitleControlTwo}
+                initial="hidden">
+                <h1 className='my-[.35rem] text-gray-200 font-Imbue transition z-0 tracking-[1.25rem] 
+                  sm:text-[3.5rem] md:text-[4.5rem] text-[6.9rem] font-medium ml-[1rem] duration-300 '> 
+                  MODERN <br/> 
+                </h1>
+              </motion.div>
+              <motion.div
+                animate={staggerAnimation}
+                variants={TitleControlThree}
+                initial="hidden">
+                <div className='flex flex-row h-full w-full gap-6 items-start'>
+                  <span className=" text-6xl sm:text-[1.8rem] md:text-[4.5rem] decoration-slate-200 transition
+                    underline decoration-2 underline-offset-[6px] font-PinyonScript font-thin text-gray-200 duration-300 ">
+                    art
+                  </span> 
+                  <h1 className=' border-none text-[--yellow] z-0 tracking-[.85rem] scale-y-[1.35] scale-x-[1.8] 
+                    font-Imbue text-[7.2rem] sm:text-[3.3rem] md:text-[4.5rem] font-extrabold italic'>
+                    EXPERIENCE'S
+                  </h1>
+                </div>
+              </motion.div>
+            </div>
+          </div>
+        </div> */
