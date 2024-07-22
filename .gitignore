@@ -37,4 +37,6 @@ next-env.d.ts
 
 # javascript
 firebase.js
+/firebase.js
 permissions.json
+/permissions.json
